@@ -2,4 +2,8 @@ function alert () {
     console.log("my NPM package is working again");
 }
 
-export default alert;
+function hello () {
+    console.log("Hello world");
+}
+
+export default {alert, hello};
