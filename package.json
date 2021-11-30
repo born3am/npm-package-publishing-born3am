@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/born3am/npm-package-publishing-born3am#readme",
   "dependencies": {
-    "np": "^7.6.0"
+    "np": "^5.1.3"
   }
 }
