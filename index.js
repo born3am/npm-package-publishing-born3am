@@ -1,5 +1,5 @@
 function alert () {
-    console.log("my NPM package is working");
+    console.log("my NPM package is working again");
 }
 
 export default alert;
